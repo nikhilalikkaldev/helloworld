@@ -6,4 +6,7 @@
  * and open the template in the editor.
  */
 echo 'hi';
+function showuser(){
+    echo 'this is show user';
+}
 ?>
