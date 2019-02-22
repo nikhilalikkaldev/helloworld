@@ -9,4 +9,8 @@ echo 'hi';
 function showuser(){
     echo 'this is show user';
 }
+function second(){
+    echo 'second';
+}
+second();
 ?>
