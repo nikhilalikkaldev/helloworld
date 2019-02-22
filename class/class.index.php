@@ -11,6 +11,9 @@ class index{
     public function showuser(){
         echo 'class- shouwuser';
     }
+    public function showuserthird(){
+        echo 'class-second';
+    }
 }
 
 ?>
