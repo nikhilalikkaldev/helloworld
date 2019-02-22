@@ -14,6 +14,9 @@ class index{
     public function showusersecond(){
         echo 'class-second';
     }
+    public function showusersecond(){
+        echo 'class-second';
+    }
 }
 
 ?>
