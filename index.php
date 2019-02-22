@@ -12,7 +12,7 @@ function showuser(){
 function second(){
     echo 'second';
 }
-function third added(){
+function third(){
     echo 'third';
 }
 second();
